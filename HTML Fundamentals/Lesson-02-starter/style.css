@@ -1,0 +1,40 @@
+h1 {
+  color: blue;
+  font-size: 25px;
+}
+.headings {
+  color: red;
+}
+body {
+  background-color: whitesmoke;
+}
+h2 {
+  color: green;
+}
+.paragraph-heading {
+  color: orangered;
+}
+
+#description {
+  color: blueviolet;
+  text-align: center;
+}
+.link {
+  text-decoration: none;
+  color: crimson;
+}
+.link:hover {
+  text-decoration: underline;
+  color: black;
+}
+.prog-image {
+  height: 200px;
+}
+/* Tag name */
+video {
+  height: 300px;
+}
+/* using the class */
+.video {
+  width: 400px;
+}
